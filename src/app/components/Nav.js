@@ -34,7 +34,6 @@ const Nav = () => {
                         </li>
                     </ul>
 
-                     //nav icon
                     <div className={styles['mobile-navbar-btn']}>
                         <CgMenu
                             name="menu-outline"
